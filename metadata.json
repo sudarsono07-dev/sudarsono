@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Siswa Guru - Rekap Harian, Bulanan & Cetak",
+  "description": "Aplikasi absensi siswa digital untuk guru dengan rekapitulasi harian dan bulanan otomatis, serta fitur unduh laporan Word, Excel, dan PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
